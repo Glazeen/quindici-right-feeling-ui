@@ -2,7 +2,7 @@
 
 > Critical UI/UX design laws, mobile viewport budgets, spacing rules, anti-patterns, and component hierarchy for AI coding agents.
 
-[![skills.sh](https://skills.sh/b/alfonsocannavale/quindici-right-feeling-ui)](https://skills.sh/alfonsocannavale/quindici-right-feeling-ui)
+[![skills.sh](https://skills.sh/b/Glazeen/quindici-right-feeling-ui)](https://skills.sh/Glazeen/quindici-right-feeling-ui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Designed for use with modern AI coding agents (**Claude Code**, **Cursor**, **Codex**, **Windsurf**, **GitHub Copilot**, and 30+ others) via [skills.sh](https://www.skills.sh/).
@@ -16,26 +16,26 @@ Install into your project or globally across all your projects with one command:
 ### Quick Install (Project Level)
 
 ```bash
-npx skills add alfonsocannavale/quindici-right-feeling-ui
+npx skills add Glazeen/quindici-right-feeling-ui
 ```
 
 ### Global Install (Available Everywhere)
 
 ```bash
-npx skills add alfonsocannavale/quindici-right-feeling-ui -g
+npx skills add Glazeen/quindici-right-feeling-ui -g
 ```
 
 ### Target Specific Agents
 
 ```bash
 # Claude Code
-npx skills add alfonsocannavale/quindici-right-feeling-ui -a claude-code
+npx skills add Glazeen/quindici-right-feeling-ui -a claude-code
 
 # Cursor
-npx skills add alfonsocannavale/quindici-right-feeling-ui -a cursor
+npx skills add Glazeen/quindici-right-feeling-ui -a cursor
 
 # Codex
-npx skills add alfonsocannavale/quindici-right-feeling-ui -a codex
+npx skills add Glazeen/quindici-right-feeling-ui -a codex
 ```
 
 ---
@@ -89,4 +89,4 @@ The agent verifies its output against this checklist before presenting code:
 
 ## 📄 License
 
-[MIT](LICENSE) © Alfonso Cannavale
+[MIT](LICENSE) © Glazeen.ai
